@@ -1,12 +1,12 @@
 # Criacao-de-um-Phishing-com-o-Kali-Linux
 # Phishing para captura de senhas do Facebook
 
-### Ferramentas
+### Ferramentas🐉
 
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
+### Configurando o Phishing no Kali Linux💻
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -18,3 +18,7 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+![Alt text](./facebook.png "Optional title")
+
+### imagem captura final de senha 💣
+![Alt text](./result.png "Optional title")
